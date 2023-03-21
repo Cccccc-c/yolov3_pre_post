@@ -6,7 +6,7 @@ yolov3.cpp为yolov3网络的预处理与后处理操作 (yolo+nms)
 ./make.sh
 ./yolov3
 ```
-![image](./data/result.jpg)
+![](./data/result.jpg)
 
 ## 其他
  - 代码编译依赖opencv，记得提前安装
